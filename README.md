@@ -1,6 +1,6 @@
 # Innovatech Studio Homework Solution
 
-This project is offered as a solution to the interview homework described here: [Python Homework]("Python%20Homework.docx")
+This project is offered as a solution to the interview homework described here: [Python Homework](Python%20Homework.docx)
 
 ## Prerequisites and Installation
 
